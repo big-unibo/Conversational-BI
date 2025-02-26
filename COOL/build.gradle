@@ -50,7 +50,7 @@ dependencies {
     implementation 'org.jetbrains.kotlin:kotlin-stdlib-jdk8'
     implementation 'org.nield:kotlin-statistics:1.2.1'
     implementation 'mysql:mysql-connector-java:8.0.33'
-    implementation 'com.github.haifengl:smile-core:2.6.0'
+    implementation 'com.github.haifengl:smile-core:4.2.0'
     implementation 'org.jgrapht:jgrapht-core:1.5.2'
     implementation 'edu.stanford.nlp:stanford-corenlp:4.5.8'
     implementation 'org.apache.commons:commons-lang3:3.17.0'
